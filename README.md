@@ -48,11 +48,11 @@ alarms out of 1,701 active customers.
 ## 📁 Project Structure
 credit-churn-analysis/
 │
-├── 01_exploracion_inicial.ipynb   # EDA & data cleaning
-├── 02_modelo_predictivo.ipynb     # ML models & evaluation
-├── BankChurners.csv               # Raw dataset (Kaggle)
-├── data_limpia.csv                # Cleaned dataset
-└── README.md                      # Project documentation
+├── 01_exploracion_inicial.ipynb   # EDA & data cleaning  
+├── 02_modelo_predictivo.ipynb     # ML models & evaluation  
+├── BankChurners.csv               # Raw dataset (Kaggle)  
+├── data_limpia.csv                # Cleaned dataset  
+└── README.md                      # Project documentation  
 
 ---
 
